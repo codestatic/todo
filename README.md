@@ -1,2 +1,2 @@
 # todo
-web todo app written in JavaScript
+web todo app using JavaScript
